@@ -1,0 +1,2 @@
+The variable "shoes" is either not deifned at all or being accessed outside of
+its available scope.
