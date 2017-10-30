@@ -1,0 +1,2 @@
+The error says the program is trying to call a method "calculate_product"
+that requires 2 arguments and only 1 is provided.
