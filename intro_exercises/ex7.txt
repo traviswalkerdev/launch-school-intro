@@ -1,0 +1,2 @@
+The main difference between an Array and a Hash is hashes have key-value
+pairs and arrays are referenced only by index.
